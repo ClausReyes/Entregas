@@ -81,7 +81,7 @@ font-size: larger;
   }
 .bg-nav{
 
- height: 98vh;
+ height: 50vh;
  animation-name: headeranimacion;
  animation-duration: 20s;
  animation-iteration-count: infinite;
